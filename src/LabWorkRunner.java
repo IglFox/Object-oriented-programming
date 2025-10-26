@@ -42,9 +42,6 @@ class LabWorkRunner {
             case 5:
                 LabWork5();
                 break;
-            case 6:
-                LabWork6();
-                break;
             default:
                 IO.println("[Error] Enter num from 1 to 6");
         }
@@ -163,9 +160,4 @@ class LabWorkRunner {
     public static void LabWork5() {
         return;
     }
-
-    public static void LabWork6() {
-        return;
-    }
-
 }
